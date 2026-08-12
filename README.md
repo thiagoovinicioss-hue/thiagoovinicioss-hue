@@ -205,7 +205,6 @@ An experimental educational game combining **chemistry and game development**.
 The project explores ways to turn concepts such as chemical bonds, molecular structures and Lewis representations into interactive mechanics.
 
 ```text
-ENGINE   : UNITY
 TYPE     : EDUCATIONAL GAME
 STATUS   : EXPERIMENTAL
 DOMAIN   : CHEMISTRY / GAME DEVELOPMENT
@@ -341,7 +340,7 @@ DOMAIN   : CHEMISTRY / GAME DEVELOPMENT
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://www.youtube.com/">
+<a href="https://www.youtube.com/@Thiago_maker">
 <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
