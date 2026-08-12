@@ -248,15 +248,6 @@ DOMAIN   : CHEMISTRY / GAME DEVELOPMENT
 
 ---
 
-# `> github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thiagoovinicioss-hue&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoovinicioss-hue&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="180"/>
-
-</div>
 
 <br>
 
@@ -277,14 +268,6 @@ DOMAIN   : CHEMISTRY / GAME DEVELOPMENT
 </div>
 
 ---
-
-# `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thiagoovinicioss-hue&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
 
 ---
 
