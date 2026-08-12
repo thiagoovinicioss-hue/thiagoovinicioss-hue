@@ -20,12 +20,12 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                     THIAGO // PROFILE                       │
+│                     THIAGO // PROFILE                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  ROLE        : Student / Developer                           │
-│  LOCATION    : Brazil                                       │
-│  INTERESTS   : Programming • Cybersecurity • Technology     │
+│  LOCATION    : Brazil                                        │
+│  INTERESTS   : Programming • Cybersecurity • Technology      │
 │  ENVIRONMENT : Linux • Windows                               │
 │  STATUS      : Learning / Building                           │
 │                                                              │
@@ -273,7 +273,7 @@ DOMAIN   : CHEMISTRY / GAME DEVELOPMENT
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                       LEARNING LOG                          ║
+║                       LEARNING LOG                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  COMPUTER SCIENCE                                            ║
@@ -286,7 +286,7 @@ DOMAIN   : CHEMISTRY / GAME DEVELOPMENT
 ║  ├── C / C++                                                 ║
 ║  ├── JavaScript                                              ║
 ║  ├── HTML / CSS                                              ║
-║  └── Git / GitHub                                             ║
+║  └── Git / GitHub                                            ║
 ║                                                              ║
 ║  CYBERSECURITY                                               ║
 ║  ├── Linux                                                   ║
@@ -296,7 +296,7 @@ DOMAIN   : CHEMISTRY / GAME DEVELOPMENT
 ║                                                              ║
 ║  HARDWARE                                                    ║
 ║  ├── Arduino                                                 ║
-║  └── Raspberry Pi                                             ║
+║  └── Raspberry Pi                                            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
