@@ -20,13 +20,13 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                     THIAGO // PROFILE                        │
+│                     THIAGO // PROFILE                       │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  ROLE        : Student / Developer                           │
 │  LOCATION    : Brazil                                        │
 │  INTERESTS   : Programming • Cybersecurity • Technology      │
-│  ENVIRONMENT : Linux • Windows                               │
+│  ENVIRONMENT : Linux • Windows                                │
 │  STATUS      : Learning / Building                           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
