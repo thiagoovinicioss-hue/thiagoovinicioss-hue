@@ -245,18 +245,6 @@ DOMAIN   : CHEMISTRY / GAME DEVELOPMENT
 │
 └─$ ./keep_learning.sh
 ```
-
----
-
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thiagoovinicioss-hue&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/>
-
-</div>
-
 ---
 
 # `> activity_monitor`
